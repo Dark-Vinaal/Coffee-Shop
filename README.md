@@ -20,17 +20,13 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-- React
-- Vite
-- CSS
-- HTML
-- JavaScript
+> React • Vite • CSS • HTML • JavaScript
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```text
 Coffee-Shop/
@@ -65,20 +61,36 @@ Coffee-Shop/
 
 ---
 
-### Live Demo
+### 📸 Screenshots
 
-[CoffeeShop1]()
-[CoffeeShop2]()
-[CoffeeShop3]()
-
----
-
-### License
-
-This project is for learning and practice purposes.
+![CoffeeShop1](https://github.com/Dark-Vinaal/Coffee-Shop/blob/main/assets/coffeeshop1.png)
+![CoffeeShop2](https://github.com/Dark-Vinaal/Coffee-Shop/blob/main/assets/coffeeshop2.png)
+![CoffeeShop3](https://github.com/Dark-Vinaal/Coffee-Shop/blob/main/assets/coffeeshop3.png)
 
 ---
 
-> 
+### 🔗 Live Demo
+
+> [Click here to view the site](https://dark-vinaal.github.io/Coffee-Shop)
 
 ---
+
+## 👨‍💻 Author
+
+### Vinaal R
+
+Passionate Learner | Aspiring Developer | Python Enthusiast
+
+### Contact me through 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaal/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+
+<a href="https://vinaalr.netlify.app/">
+  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
+</a>
+
+---
+
+> If you like this project, please consider giving it a ⭐! Your support helps keep the development going.
+
+--- 
