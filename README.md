@@ -71,7 +71,7 @@ Coffee-Shop/
 
 ### 🔗 Live Demo
 
-> [Click here to view the site](https://dark-vinaal.github.io/Coffee-Shop)
+> [Click here to view the site](https://brew-coffee-house.vercel.app/)
 
 ---
 
