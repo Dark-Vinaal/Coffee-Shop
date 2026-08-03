@@ -2,6 +2,7 @@
 node_modules/
 .pnpm-store/
 .yarn/
+package-lock.json
 package-lock.json.log
 
 # Production build outputs & caches
