@@ -1,4 +1,32 @@
-# Logs
+# Dependencies
+node_modules/
+.pnpm-store/
+.yarn/
+package-lock.json.log
+
+# Production build outputs & caches
+dist/
+dist-ssr/
+build/
+out/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Environment variables & sensitive credentials (NEVER commit to public repo)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+*.pem
+*.key
+*.cert
+*.pfx
+secrets.json
+
+# Logs & debugging
 logs
 *.log
 npm-debug.log*
@@ -7,18 +35,42 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
+# Editor & IDE settings
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+!.vscode/settings.json
+!.vscode/tasks.json
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+*.swo
+*.swp
+.project
+.classpath
+.settings/
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Testing & Coverage reports
+coverage/
+.nyc_output/
+cypress/screenshots/
+cypress/videos/
+
+# Temporary & backup files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
